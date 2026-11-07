@@ -1,0 +1,35 @@
+{
+    "chart_title": "storms",
+    "data_points": [
+        {
+          "name": "Helene",
+	  "wind": 140,
+    	  "rainfall": 30,
+    	  "deaths": 250
+    },
+    {
+      "name": "Ian",
+      "wind": 155,
+      "rainfall": 20,
+      "deaths": 150
+    },
+    {
+      "name": "Idalia",
+      "wind": 130,
+      "rainfall": 12,
+      "deaths": 12
+    },
+    {
+	"name": "Michael",
+	"wind": 160,
+	"rainfall": 10,
+	"deaths": 74
+    },
+    {
+	"name": "Irma",
+	"wind": 180,
+	"rainfall": 15,
+	"deaths": 134
+	}
+    ]
+}
